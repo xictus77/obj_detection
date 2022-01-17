@@ -9,3 +9,6 @@ python obstruct_detect.py -v /path to the video file -a default=500
 Output:
 Snapshot of detected object in ROI
 Video showing the detected object in ROI
+
+Medium post:
+https://xictus77.medium.com/obstruction-detection-and-tracking-using-opencv-python-ea5838822945
